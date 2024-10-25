@@ -1,5 +1,5 @@
-説明動画：https://youtu.be/X2d1SJ6KP4w\n
-ビルド方法\n
+説明動画：https://youtu.be/X2d1SJ6KP4w
+ビルド方法
 net.8でビルド
 Program.csは名前をautoconsoleでコンソールアプリとして（注autoconsoledllを先にビルドしアセンブリにdllを追加する必要があります）
 Class1.csは名前をautoconsoledllでクラスライブラリとして
