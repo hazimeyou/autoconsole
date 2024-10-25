@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "itemplugin/1.0.0": {
+        "dependencies": {
+          "autoconsoledll": "1.0.0.0"
+        },
+        "runtime": {
+          "itemplugin.dll": {}
+        }
+      },
+      "autoconsoledll/1.0.0.0": {
+        "runtime": {
+          "autoconsoledll.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "itemplugin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "autoconsoledll/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
